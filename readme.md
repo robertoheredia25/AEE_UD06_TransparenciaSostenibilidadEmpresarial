@@ -46,8 +46,16 @@ Se encuentra en un rango intermedio, siendo más contaminante que el 54% de las 
 <p align="center">
   <img src="foto/imagen1.png" alt="IMAGEN1" width="500">
 </p>
+La **causa principal** de este desajuste es debido a:   
+	\-Nos encontramos ante fotos gigantes en formato JPEG en la página principal, las cuales no están comprimidas
 
-2. 
+	\-Fragmentos de MP4 pesados que se reproducen de forma automática 
+
+Esta inflación se justifica por la descarga de librerías JavaScript con activos visuales que no están optimizados por el posible dispositivo desde el que puede acceder el usuario, obligándolo a tener un procesamiento innecesario
+
+2. # Análisis social
+
+La web debe ser fácil de usar
 
 **WEBGRAFÍA**  
 [https://www.seur.com/es/sostenibilidad/](https://www.seur.com/es/sostenibilidad/)  
